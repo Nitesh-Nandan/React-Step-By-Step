@@ -1,0 +1,1 @@
+1. Use Production Script https://reactjs.org/docs/optimizing-performance.html#use-the-production-build
