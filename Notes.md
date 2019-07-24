@@ -16,5 +16,16 @@
 
 Read:: https://stackoverflow.com/questions/47721169/babel-vs-babel-core-vs-babel-loader-vs-babel-preset-2015-vs-babel-preset-react-v?rq=1
 
+1. What was the problem till now::
+- you have to repeat the command for each file.
+- After converting you have to compress the file efficiently
+- Now WebPack comes in picture.
+
+Need: Babel-loader, babel-core (babel-cli), babel presets
+
+2. How to procceds??
+- You can downlaod webpacks as dev dependency
+- Now we have to create webpack.config.js
+
 
 
