@@ -9,7 +9,9 @@
 ```
 5. It also didn't work!! Very smart || it requires rules bro!!
 
-6. So here you go  it worked!!
+6. So here you go  it worked!! 
+
+7. Rules(presets) can be passed using command line argument or we can create ".babelrc" and pass
 
 # Phase 2
 ## WebPacks
