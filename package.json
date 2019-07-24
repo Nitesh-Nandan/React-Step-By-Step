@@ -1,0 +1,25 @@
+{
+  "name": "react-step-by-step",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src/app.js --out-file=public/scripts/app.js --presets=env,react --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nitesh-Nandan/React-Step-By-Step.git"
+  },
+  "author": "nitesh nandan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nitesh-Nandan/React-Step-By-Step/issues"
+  },
+  "homepage": "https://github.com/Nitesh-Nandan/React-Step-By-Step#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  }
+}
